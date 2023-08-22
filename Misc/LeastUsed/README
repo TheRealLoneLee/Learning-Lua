@@ -1,0 +1,4 @@
+# LeastUsed file
+
+LeastUsed is a simple script written in Lua, using the LuaFileSystem Module via Luarocks, 
+to scan a directory to uncover what the least used files are
