@@ -26,3 +26,10 @@
 2023-08-23 00:28:19 | [INFO]    | Connecting to Discord...
 2023-08-23 00:28:19 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
 2023-08-23 00:28:19 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:29:33 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:29:33 | [INFO]    | Connecting to Discord...
+2023-08-23 00:29:33 | [INFO]    | Authenticated as Lunara#6429
+2023-08-23 00:29:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-23 00:29:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-23 00:29:34 | [INFO]    | Shard 0 : Received HELLO
+2023-08-23 00:29:34 | [INFO]    | Shard 0 : Received READY
