@@ -1,0 +1,28 @@
+2023-08-23 00:13:15 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:13:15 | [INFO]    | Connecting to Discord...
+2023-08-23 00:13:15 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:13:15 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:14:32 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:14:32 | [INFO]    | Connecting to Discord...
+2023-08-23 00:14:32 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:14:32 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:17:10 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:17:10 | [INFO]    | Connecting to Discord...
+2023-08-23 00:17:10 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:17:10 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:17:51 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:17:51 | [INFO]    | Connecting to Discord...
+2023-08-23 00:17:51 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:17:51 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:19:16 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:19:16 | [INFO]    | Connecting to Discord...
+2023-08-23 00:19:16 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:19:16 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:25:59 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:25:59 | [INFO]    | Connecting to Discord...
+2023-08-23 00:25:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:25:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-08-23 00:28:19 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:28:19 | [INFO]    | Connecting to Discord...
+2023-08-23 00:28:19 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-08-23 00:28:19 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
