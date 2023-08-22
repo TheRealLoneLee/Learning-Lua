@@ -1,5 +1,6 @@
 local discordia = require('discordia')
 local client = discordia.Client()
+local config = require('./config.lua')
 
 client:on('ready', function()
 	print('Logged in as '.. client.user.username)
@@ -11,4 +12,4 @@ client:on('messageCreate', function(message)
 	end
 end)
 
-client:run('Bot MTE0MzY4NjQxMDE4MDc2Nzg3Ng.GLDyc5.Y5mhXB6nqEFAm21KbmLmH3uAuqpfoLccCZfd5U')
+client:run('Bot '..config.token)
