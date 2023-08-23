@@ -1,91 +1,21 @@
-2023-08-23 00:13:15 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:13:15 | [INFO]    | Connecting to Discord...
-2023-08-23 00:13:15 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:13:15 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:14:32 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:14:32 | [INFO]    | Connecting to Discord...
-2023-08-23 00:14:32 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:14:32 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:17:10 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:17:10 | [INFO]    | Connecting to Discord...
-2023-08-23 00:17:10 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:17:10 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:17:51 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:17:51 | [INFO]    | Connecting to Discord...
-2023-08-23 00:17:51 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:17:51 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:19:16 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:19:16 | [INFO]    | Connecting to Discord...
-2023-08-23 00:19:16 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:19:16 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:25:59 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:25:59 | [INFO]    | Connecting to Discord...
-2023-08-23 00:25:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:25:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:28:19 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:28:19 | [INFO]    | Connecting to Discord...
-2023-08-23 00:28:19 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
-2023-08-23 00:28:19 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
-2023-08-23 00:29:33 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:29:33 | [INFO]    | Connecting to Discord...
-2023-08-23 00:29:33 | [INFO]    | Authenticated as Lunara#6429
-2023-08-23 00:29:33 | [INFO]    | Launching shard 0 (1 out of 1)...
-2023-08-23 00:29:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:29:34 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:29:34 | [INFO]    | Shard 0 : Received READY
-2023-08-23 00:31:29 | [WARNING] | Shard 0 : 4003 - Not authenticated.
-2023-08-23 00:31:29 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:31:29 | [INFO]    | Shard 0 : Reconnecting after 1029 ms...
-2023-08-23 00:31:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:31:30 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:31:31 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
-2023-08-23 00:31:34 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:31:34 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:31:34 | [INFO]    | Shard 0 : Reconnecting after 1932 ms...
-2023-08-23 00:31:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:31:36 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:31:41 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:31:41 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:31:41 | [INFO]    | Shard 0 : Reconnecting after 3649 ms...
-2023-08-23 00:31:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:31:45 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:31:49 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:31:49 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:31:49 | [INFO]    | Shard 0 : Reconnecting after 8374 ms...
-2023-08-23 00:31:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:31:57 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:31:58 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:31:58 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:31:58 | [INFO]    | Shard 0 : Reconnecting after 14449 ms...
-2023-08-23 00:32:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:32:12 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:32:12 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:32:12 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:32:12 | [INFO]    | Shard 0 : Reconnecting after 30811 ms...
-2023-08-23 00:32:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:32:43 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:32:43 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:32:43 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:32:43 | [INFO]    | Shard 0 : Reconnecting after 57230 ms...
-2023-08-23 00:33:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:33:41 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:33:41 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:33:41 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:33:41 | [INFO]    | Shard 0 : Reconnecting after 63782 ms...
-2023-08-23 00:34:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:34:45 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:34:45 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:34:45 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:34:45 | [INFO]    | Shard 0 : Reconnecting after 60173 ms...
-2023-08-23 00:35:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:35:45 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:35:45 | [WARNING] | Shard 0 : 4004 - Authentication failed.
-2023-08-23 00:35:45 | [INFO]    | Shard 0 : Disconnected
-2023-08-23 00:35:45 | [INFO]    | Shard 0 : Reconnecting after 61468 ms...
-2023-08-23 00:36:05 | [INFO]    | Discordia 2.11.2
-2023-08-23 00:36:05 | [INFO]    | Connecting to Discord...
-2023-08-23 00:36:05 | [INFO]    | Authenticated as Lunara#6429
-2023-08-23 00:36:05 | [INFO]    | Launching shard 0 (1 out of 1)...
-2023-08-23 00:36:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
-2023-08-23 00:36:05 | [INFO]    | Shard 0 : Received HELLO
-2023-08-23 00:36:06 | [INFO]    | Shard 0 : Received READY
+2023-08-23 00:59:08 | [INFO]    | Discordia 2.11.2
+2023-08-23 00:59:08 | [INFO]    | Connecting to Discord...
+2023-08-23 00:59:08 | [INFO]    | Authenticated as Lunara#6429
+2023-08-23 00:59:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-23 00:59:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-23 00:59:08 | [INFO]    | Shard 0 : Received HELLO
+2023-08-23 00:59:08 | [INFO]    | Shard 0 : Received READY
+2023-08-23 01:16:22 | [INFO]    | Discordia 2.11.2
+2023-08-23 01:16:22 | [INFO]    | Connecting to Discord...
+2023-08-23 01:16:22 | [INFO]    | Authenticated as Lunara#6429
+2023-08-23 01:16:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-23 01:16:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-23 01:16:22 | [INFO]    | Shard 0 : Received HELLO
+2023-08-23 01:16:22 | [INFO]    | Shard 0 : Received READY
+2023-08-23 01:17:29 | [INFO]    | Discordia 2.11.2
+2023-08-23 01:17:29 | [INFO]    | Connecting to Discord...
+2023-08-23 01:17:30 | [INFO]    | Authenticated as Lunara#6429
+2023-08-23 01:17:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-08-23 01:17:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-08-23 01:17:30 | [INFO]    | Shard 0 : Received HELLO
+2023-08-23 01:17:30 | [INFO]    | Shard 0 : Received READY
